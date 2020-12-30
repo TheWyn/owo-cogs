@@ -1,6 +1,6 @@
 {
   "author" : ["Jintaku"],
-  "bot_version": [3, 4, 0],
+  "bot_version": [3,0,0],
   "install_msg" : "Interact with people using the best GIFs!",
   "short" : "Interact with users",
   "description" : "Interact with users using anime GIFs",
